@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vigmallya&label=Profile%20views&color=0e75b6&style=flat" alt="vigmallya" /> </p>
 
-- 💬 Ask me about **JS, React, Node, Mongo**
+- 💬 Ask me about anything, i will comeback to you with an answer.
 
 - 📫 How to reach me **vignesh.mallya315@gmail.com**
 
