@@ -25,7 +25,7 @@
 
 ```typescript
 const vigneshMallya = {
-  title:       "AI Engineer — GenAI, RAG & Agentic Systems",
+  title:       "Full-Stack Developer/AI Engineer — GenAI, RAG & Agentic Systems, React, Node",
   experience:  "5+ years software engineering",
   stack: {
     genAI:      ["LangChain", "LangGraph", "LlamaIndex", "RAG Pipelines", "vLLM", "RAGAS"],
@@ -37,7 +37,7 @@ const vigneshMallya = {
   currentRole: "Working Student, Data Analyst @ Safran Helicopter Engines",
   education:   "M.Sc. Management & Data Science — Leuphana University (2023–Present)",
   thesis:      "NL → SPARQL 1.2 (RDF-star) with LLMs — 56% → 70.8% exact match via LoRA",
-  openTo:      "Full-time AI Engineer roles — Germany · EU · Remote",
+  openTo:      "Full-time Full-Stack Developer/AI Engineer roles — Germany · EU · Remote",
 };
 ```
 
