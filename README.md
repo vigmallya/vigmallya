@@ -1,212 +1,209 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a3a,60:0d3347,100:0d1117&height=280&section=header&text=Vignesh%20Mallya&fontSize=56&fontColor=0ea5e9&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%E2%80%94%20GenAI%20%7C%20RAG%20%7C%20Knowledge%20Graphs%20%7C%20Multi-Agent%20Systems&descAlignY=58&descSize=16&descColor=bae6fd" />
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38bdf8&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer+%7C+Data+Scientist;MERN+Stack+Dev+turned+AI+nerd;Building+things+that+think." alt="Typing SVG" />
-</h1>
-
 <div align="center">
 
-![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20OPEN%20TO%20WORK-AI%20Engineer%20%2F%20GenAI%20%2F%20Data%20Scientist%20Roles-38bdf8?style=for-the-badge&labelColor=0a2a3a&color=0d3347)
+# Vignesh Mallya
+
+**Full-Stack & AI Engineer**
+<br>
+<sub>React · TypeScript · Node.js · Python · LLM Applications · RAG · Knowledge Graphs</sub>
+
+<br>
+
+<a href="https://mallya.vercel.app"><img src="https://img.shields.io/badge/Portfolio-mallya.vercel.app-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/v-mallya"><img src="https://img.shields.io/badge/LinkedIn-v--mallya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:vignesh.mallya315@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<img src="https://img.shields.io/badge/📍_Lüneburg,_Germany-1e293b?style=flat-square" alt="Location" />
+<img src="https://img.shields.io/badge/Available_from-January_2027-22c55e?style=flat-square" alt="Available from January 2027" />
+<img src="https://img.shields.io/badge/Open_to-Full--Stack_·_AI_Engineering-8b5cf6?style=flat-square" alt="Open to roles" />
 
 </div>
 
-<div align="center">
+<br>
 
-<a href="mailto:vignesh.mallya315@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-vignesh.mallya315%40gmail.com-0d3347?style=for-the-badge&logo=gmail&logoColor=e5e7eb&labelColor=1f2937" /></a>
-<a href="https://linkedin.com/in/v-mallya" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-v--mallya-0d3347?style=for-the-badge&logo=linkedin&logoColor=e5e7eb&labelColor=1f2937" /></a>
-<a href="https://mallya.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-mallya.vercel.app-0d3347?style=for-the-badge&logo=vercel&logoColor=e5e7eb&labelColor=1f2937" /></a>
-![Profile views](https://komarev.com/ghpvc/?username=vigmallya&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0a2a3a)
+## 👋 About
 
-</div>
+I build production web applications and the AI features that sit inside them.
 
----
+- 💼 **3+ years at Infosys** as a full-stack engineer, promoted twice: React and TypeScript front ends, Node.js microservices, REST APIs and AWS serverless back ends for international clients.
+- 🚁 **2 years at Safran Helicopter Engines** as a working student, building Python ETL pipelines, Power BI and React dashboards, and an LLM-powered analytics prototype on SAP finance data.
+- 🎓 **M.Sc. in Management and Data Science** at Leuphana University (expected Dec 2026). My thesis fine-tuned Qwen2.5-7B with LoRA and raised text-to-SPARQL accuracy over Wikidata from **56% to 70.8%**.
 
-## 🧑‍💻 Who I Am
+What I enjoy most: turning vague business problems into working software, automating the repetitive parts of people's jobs, and putting LLMs, RAG and knowledge graphs to work on real data.
 
-```typescript
-const vigneshMallya = {
-  title:       "Full-Stack Developer/AI Engineer — GenAI, RAG & Agentic Systems, React, Node",
-  experience:  "5+ years software engineering",
-  stack: {
-    genAI:      ["LangChain", "LangGraph", "LlamaIndex", "RAG Pipelines", "vLLM", "RAGAS"],
-    knowledgeGraphs: ["SPARQL 1.1/1.2 (RDF-star)", "GraphDB", "Wikidata", "DBpedia", "RDF/RDFS/OWL/SHACL"],
-    fineTuning: ["LoRA / QLoRA (HF PEFT)", "Llama", "Mistral", "Qwen", "Gemma"],
-    cloud:      ["AWS Bedrock", "AWS SageMaker", "Azure OpenAI Service", "Copilot Studio"],
-    fullStack:  ["Python", "TypeScript", "React", "Node.js", "FastAPI", "Docker"],
-  },
-  currentRole: "Working Student, Data Analyst @ Safran Helicopter Engines",
-  education:   "M.Sc. Management & Data Science — Leuphana University (2023–Present)",
-  thesis:      "NL → SPARQL 1.2 (RDF-star) with LLMs — 56% → 70.8% exact match via LoRA",
-  openTo:      "Full-time Full-Stack Developer/AI Engineer roles — Germany · EU · Remote",
-};
-```
+<br>
 
----
+## 💼 Experience
 
-## 🕸️ My Knowledge Graph, Visualised
+| Role | Company | Period |
+|:--|:--|:--|
+| **Working Student, Data Analyst** | <img src="https://img.shields.io/badge/Safran_Helicopter_Engines-0b3d91?style=flat-square" /> Hamburg | Oct 2024 – Present |
+| **Technology Analyst** (Full-Stack) | <img src="https://img.shields.io/badge/Infosys-007CC3?style=flat-square&logo=infosys&logoColor=white" /> Mangalore | Jul 2022 – Feb 2023 |
+| **Senior Software Engineer** (Full-Stack) | <img src="https://img.shields.io/badge/Infosys-007CC3?style=flat-square&logo=infosys&logoColor=white" /> Mangalore | Jun 2021 – Jun 2022 |
+| **Software Engineer** (Full-Stack) | <img src="https://img.shields.io/badge/Infosys-007CC3?style=flat-square&logo=infosys&logoColor=white" /> Mangalore | Oct 2019 – Jun 2021 |
 
-```mermaid
-graph LR
-    V((🧑 Vignesh)) -->|wrote| T[🎓 Master's Thesis]
-    T -->|achieves| EM["70.8% Exact Match"]
-    T -->|queries| WD[(Wikidata\n17.8M triples)]
+<details>
+<summary><b>✨ Highlights</b></summary>
+<br>
 
-    V -->|worksAt| S[🏢 Safran Helicopter Engines]
-    S -->|delivers| BI[Power BI + SAP ETL\nfor Finance & Procurement]
+**Safran Helicopter Engines**
+- 📊 Power BI and React dashboards covering 10+ KPIs for finance, supply chain, logistics and engineering
+- ⚙️ Python ETL pipelines for SAP finance and procurement data, cutting manual reporting time by **90%**
+- 🤖 Prototype LangGraph + XGBoost application that predicts customer payment overdues through a conversational interface
 
-    V -->|studiedAt| L[Leuphana University]
-    L -->|studies| M[Management & Data Science]
-    V -->|builds| RAG[📚 RAG Pipelines]
-    RAG -->|retrievesVia| FS[(FAISS / ChromaDB / Pinecone)]
+**Infosys**
+- ☁️ Serverless AWS data-validation platform (Lambda, S3, DynamoDB, SNS, CloudWatch): data-gap detection cut from **days to minutes**
+- 🧾 Node.js microservices billing platform for grocery retail with JWT and role-based access control, serving **5,000+ users**
+- ⚡ Optimized SQL queries and stored procedures, reducing API response time by about **35%**
+- 🏆 Infosys Insta Award and a top performer rating for stabilizing an inherited project
 
-    V -->|deploysOn| CL[☁️ AWS Bedrock & SageMaker]
-    CL -->|serves| AGT[🤖 Agentic Workflows]
+</details>
 
-    V -->|shipped| APP[💰 TrackMyXpense\nProduction PWA]
-    APP -->|usesAPI| GV[Gemini Vision API]
+<br>
 
-    V -->|fineTunes| FT[LoRA / QLoRA on\nLlama · Mistral · Qwen · Gemma]
-
-    style V fill:#0d3347,stroke:#38bdf8,stroke-width:2px,color:#bae6fd
-    style T fill:#0a2a3a,stroke:#38bdf8,color:#bae6fd
-    style EM fill:#38bdf8,stroke:#0d3347,color:#0d1117
-    style M fill:#38bdf8,stroke:#0d3347,color:#0d1117
-    style S fill:#0a2a3a,stroke:#38bdf8,color:#bae6fd
-```
-
----
-
-## 🎓 Flagship Research
+## 🚀 Selected Projects
 
 <table>
 <tr>
-<td width="70%">
+<td width="50%" valign="top">
 
-### NL → SPARQL 1.2 (RDF-star) Query Generation with LLMs
-**Master's Thesis · Leuphana University**
+<img src="https://img.shields.io/badge/Agentic_RAG-8b5cf6?style=flat-square" />
 
-Benchmarked **4 open-source LLMs** (Qwen2.5-7B, Llama-3.1-8B, Mistral-7B, Gemma-2-9B) across **12 prompting strategies** on **500 questions**, against a **17.8M-triple Wikidata** knowledge graph in GraphDB — supporting both SPARQL 1.1 and 1.2 (RDF-star).
+**[RAGForge](https://github.com/vigmallya/Production_Grade_Agentic_Rag)**
+<br><sub>Production-grade agentic RAG platform</sub>
 
-Then LoRA fine-tuned Qwen2.5-7B on 3,400 task-specific examples, served via vLLM.
+Planner, retriever and responder agents in LangGraph with Qdrant retrieval, cross-encoder reranking, guardrails and semantic caching. Automatic fallback between OpenAI and Anthropic models, token and latency tracking, RAGAS evaluation, deployed on AWS Fargate.
+
+<sub>`LangGraph` `Qdrant` `FastAPI` `RAGAS` `LangSmith` `AWS Fargate`</sub>
 
 </td>
-<td width="30%" align="center">
+<td width="50%" valign="top">
 
-**56% → 70.8%**
-exact match
-_(+14.8pp via LoRA)_
+<img src="https://img.shields.io/badge/Knowledge_Graph-0ea5e9?style=flat-square" />
 
-**100%**
-query validity
+**[SAP Knowledge Graph + Hybrid RAG](https://github.com/vigmallya/sap-knowledge-graph-rag)**
+<br><sub>Enterprise knowledge graph for procurement data</sub>
 
-**65.4%**
-structural match
+RDFS/OWL ontology over vendors, materials, plants and purchase orders, with SHACL validation and reasoning in GraphDB. Hybrid RAG combines vector search with SPARQL to ground answers in structured and unstructured data.
+
+<sub>`RDF` `OWL` `SHACL` `SPARQL` `GraphDB` `LangChain` `FastAPI`</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/Multi--Agent-ec4899?style=flat-square" />
+
+**GraphPilot**
+<br><sub>Multi-agent GraphRAG knowledge assistant</sub>
+
+CrewAI agents for routing, research, summarization and response generation. Retrieval blends vector search, BM25 and Neo4j graph traversal, with conversation memory and a FastAPI + Streamlit front end.
+
+<sub>`CrewAI` `Neo4j` `Cypher` `BM25` `FastAPI` `Streamlit`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/Full--Stack_·_Live-22c55e?style=flat-square" />
+
+**[TrackMyXpense](https://trackmyxpense.vercel.app)**
+<br><sub>Personal and group finance PWA, live in production</sub>
+
+React PWA for budgeting, savings trends and group expense settlement. Secure serverless back end on Supabase Edge Functions, with receipt scanning through the Gemini Vision API.
+
+<sub>`React` `Supabase` `PostgreSQL` `Edge Functions` `Vercel`</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/NLP_·_MLOps-f59e0b?style=flat-square" />
+
+**[Hybrid AI Log Classification](https://github.com/vigmallya/Intelligent-log-classification)**
+<br><sub>Cost-aware log classification and monitoring</sub>
+
+Regex rules, BERT embeddings with logistic regression, and LLMs combined through confidence-based routing to avoid unnecessary API calls. Evaluated on macro-F1, latency and cost; served via FastAPI with a Streamlit dashboard.
+
+<sub>`BERT` `scikit-learn` `FastAPI` `Streamlit` `Docker`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/Machine_Learning-ef4444?style=flat-square" />
+
+**[End-to-End ML Pipeline](https://github.com/vigmallya/ML_Project)**
+<br><sub>From raw data to deployed predictions</sub>
+
+Modular pipeline for ingestion, feature engineering, training and evaluation. Compares tree-based models with hyperparameter tuning and serves predictions through Flask on AWS Elastic Beanstalk with GitHub Actions.
+
+<sub>`scikit-learn` `pandas` `Flask` `Elastic Beanstalk` `GitHub Actions`</sub>
 
 </td>
 </tr>
 </table>
 
-`Wikidata` `GraphDB` `SPARQL 1.1/1.2` `vLLM` `LoRA (HF PEFT)` `Python`
-
----
-
-## 🧰 Tech Stack
-
-**🧠 LLMs & GenAI**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![vLLM](https://img.shields.io/badge/vLLM-1B4F72?style=flat-square)
-
-**🕸️ Knowledge Graphs & RDF**
-
-![SPARQL](https://img.shields.io/badge/SPARQL_1.1%2F1.2-2E86C1?style=flat-square)
-![GraphDB](https://img.shields.io/badge/GraphDB-FF6600?style=flat-square)
-![Wikidata](https://img.shields.io/badge/Wikidata-006699?style=flat-square&logo=wikidata&logoColor=white)
-![RDF](https://img.shields.io/badge/RDF%2FRDFS%2FOWL%2FSHACL-555555?style=flat-square)
-
-**⚙️ Core Stack**
-
-![Skills](https://skillicons.dev/icons?i=python,typescript,react,angular,nodejs,fastapi,flask,docker,aws,azure,postgres,mongodb,redis,git,githubactions)
-
-**🗄️ Vector Databases**
-
-![ChromaDB](https://img.shields.io/badge/ChromaDB-8A2BE2?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-4267B2?style=flat-square)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
-
-**🧩 AI Dev Tooling**
-
-![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP--enabled_tools-2E86C1?style=flat-square)
-
----
-
-## 🛠️ Featured Builds
-
-| | |
-|---|---|
-| **🤖 Multi-Agent Research Assistant**<br>5 specialised agents (Router, Research, Summarizer, Writer, Chitchat) orchestrated via LangGraph conditional edges; FAISS semantic retrieval (L2-normalised OpenAI embeddings) over a custom PDF knowledge base. | `LangGraph` `FAISS` `OpenAI API` `LangChain` |
-| **📄 RAG Document Chat Assistant**<br>End-to-end RAG: multi-format ingestion → semantic chunking → ChromaDB → LLM synthesis, served via FastAPI + Docker. RAGAS-based eval (recall@10, faithfulness, answer relevance). | `LangChain` `LlamaIndex` `ChromaDB` `RAGAS` `FastAPI` `Docker` |
-| **🍽️ Restaurant Booking Agent**<br>AWS Bedrock Agent combining a RAG Knowledge Base (OpenSearch Serverless) with Lambda-backed CRUD against DynamoDB — natural-language menu queries and bookings. | `AWS Bedrock` `OpenSearch` `Lambda` `DynamoDB` `Claude Sonnet 4.5` |
-| **🔗 NL → SPARQL 1.1 Knowledge Graph Assistant**<br>Solo pipeline: few-shot prompting with Mistral → SPARQL 1.1 → DBpedia. **80% (12/15)** successful execution rate on a graded test set. | `Mistral` `Few-Shot Prompting` `SPARQL 1.1` `DBpedia` |
-| **💰 TrackMyXpense — AI Finance PWA**<br>Production personal-finance PWA with multimodal receipt scanning via Google Gemini Vision API, served through Supabase Edge Functions. [Live ↗](https://trackmyxpense.vercel.app) | `React` `Supabase` `Gemini Vision API` `Vercel` |
-
 <details>
-<summary><b>➕ Other projects</b></summary>
+<summary><b>➕ More projects</b></summary>
 <br>
 
-- **Student Exam Performance Predictor** — MLOps, dual-cloud CI/CD (AWS Elastic Beanstalk + Azure)
-- **MaoArm** — Computer vision & robotic arm control (MediaPipe, real-time gesture recognition)
-- **Bayesian Machine Unlearning** — PyTorch, CIFAR-10
-- **Education AI Chatbot** — RNN, TF-IDF
+- **Restaurant Booking Agent** — AWS Bedrock agent with a RAG knowledge base and Lambda-backed bookings in DynamoDB
+- **NL → SPARQL Assistant** — few-shot prompting with Mistral over DBpedia
+- **MaoArm** — real-time gesture recognition with MediaPipe controlling a robotic arm
+- **Bayesian Machine Unlearning** — PyTorch experiments on CIFAR-10
+
+More demos and source code at **[mallya.vercel.app](https://mallya.vercel.app)**.
 
 </details>
 
----
+<br>
 
-## 📊 GitHub Stats
+## 🧰 Toolkit
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=vigmallya&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakNum=bae6fd&sideNums=bae6fd&currStreakLabel=38bdf8&sideLabels=38bdf8&dates=6b9ab8" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,python,fastapi,flask,tailwind,postgres,mongodb,redis,aws,docker,githubactions,git,vercel,supabase&perline=9" alt="Tech stack icons" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vigmallya&bg_color=0d1117&color=38bdf8&line=38bdf8&point=bae6fd&hide_border=true&area=true" />
 </div>
 
----
+<br>
+
+| | |
+|:--|:--|
+| 🎨 **Frontend** | React · Redux · TypeScript · JavaScript · Tailwind CSS · PWA · Streamlit |
+| 🛠️ **Backend** | Node.js · Express · Python · FastAPI · Flask · REST · Microservices · JWT / RBAC |
+| 🧠 **AI & LLMs** | OpenAI · Anthropic · Gemini APIs · LangGraph · LangChain · CrewAI · RAG / GraphRAG · LoRA · vLLM · RAGAS · LangSmith |
+| 📈 **Machine Learning** | scikit-learn · XGBoost · pandas · NumPy · NLP |
+| 🕸️ **Knowledge Graphs** | RDF · RDFS / OWL · SHACL · SPARQL · GraphDB · Neo4j · Cypher · Protégé |
+| 🗄️ **Data** | PostgreSQL · MS SQL Server · MongoDB · DynamoDB · Redis · Qdrant · Chroma · Supabase |
+| ☁️ **Cloud & DevOps** | AWS (Lambda, S3, SNS, DynamoDB, CloudWatch, Fargate) · Docker · GitHub Actions · Vercel |
+| 🤝 **Ways of working** | Git · Jira · Confluence · Agile / Scrum · Jest · Pytest · Claude Code |
+
+<br>
 
 ## 🎓 Education
 
-**M.Sc. Management & Data Science** — Leuphana University of Lüneburg, Germany *(Oct 2023 – Present)*
-Machine Learning · Deep Learning · Probabilistic Modelling · Forecasting & Simulation · Mathematics for Data Science
+**M.Sc. Management and Data Science** · Leuphana University of Lüneburg · *Oct 2023 – Dec 2026 (expected)*
+<br><sub>Thesis: *A Comparative Evaluation of SPARQL 1.1 and SPARQL 1.2 (Star) for LLM-Based Text-to-SPARQL Generation over Wikidata*</sub>
 
-**B.E. Information Science & Engineering** *(CGPA 9.02/10)* — Dr. Ambedkar Institute of Technology, Bangalore, India *(2015 – 2019)*
-Big Data Analytics · Python · Database Management Systems · Data Structures & Algorithms
+**B.E. Information Science and Engineering** · Dr. Ambedkar Institute of Technology, Bangalore · *2015 – 2019* · CGPA 9.02/10
 
----
+<br>
 
-## 🌐 Languages
+## 📜 Certifications & 🌐 Languages
 
-`English` Fluent (C1) &nbsp;·&nbsp; `German` A2, targeting B1 by Q4 2026 &nbsp;·&nbsp; `Hindi / Kannada / Konkani` Native / Fluent
+<img src="https://img.shields.io/badge/SAP-Generative_AI_Developer-0FAAFF?style=flat-square&logo=sap&logoColor=white" /> <img src="https://img.shields.io/badge/LangGraph-Foundations_&_Vector_DBs-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/Knowledge_Graphs-AI_Agent_API_Discovery-0ea5e9?style=flat-square" /> <img src="https://img.shields.io/badge/EDA-for_Machine_Learning-f59e0b?style=flat-square" /> <img src="https://img.shields.io/badge/Udemy-ML,_DL_&_NLP_Bootcamp-A435F0?style=flat-square&logo=udemy&logoColor=white" /> <img src="https://img.shields.io/badge/Infosys-React_&_Node.js_Professional-007CC3?style=flat-square" /> <img src="https://img.shields.io/badge/Infosys-Mongo_Developer-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Infosys-Global_Agile_Developer-007CC3?style=flat-square" /> <img src="https://img.shields.io/badge/English-Fluent-0ea5e9?style=flat-square" /> <img src="https://img.shields.io/badge/German-A2_(in_progress)-f59e0b?style=flat-square" /> <img src="https://img.shields.io/badge/Hindi-Fluent-8b5cf6?style=flat-square" /> <img src="https://img.shields.io/badge/Kannada-Native-22c55e?style=flat-square" /> <img src="https://img.shields.io/badge/Konkani-Native-22c55e?style=flat-square" />
 
----
+<br>
 
-## 📫 Let's Connect
-
-I'm always up for a good conversation about AI, data, weird ML papers, or just life in general.
+## 📊 GitHub Activity
 
 <div align="center">
 
-**📬 vignesh.mallya315@gmail.com** &nbsp;|&nbsp; **[LinkedIn](https://linkedin.com/in/v-mallya)** &nbsp;|&nbsp; **[mallya.vercel.app](https://mallya.vercel.app)**
+<img src="https://streak-stats.demolab.com/?user=vigmallya&theme=transparent&hide_border=true&ring=0ea5e9&fire=8b5cf6&currStreakNum=0ea5e9&currStreakLabel=8b5cf6&sideNums=0ea5e9&sideLabels=64748b&dates=64748b" alt="GitHub streak" />
+
+<br><br>
+
+<sub>Always happy to talk about full-stack engineering, LLM applications or knowledge graphs. <a href="mailto:vignesh.mallya315@gmail.com">Say hello 👋</a></sub>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a3a,60:0d3347,100:0d1117&height=120&section=footer&animation=fadeIn" />
